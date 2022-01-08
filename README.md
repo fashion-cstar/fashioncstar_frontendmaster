@@ -1,4 +1,4 @@
-# VenusNFT FrontEnd
+# fCStarNFT FrontEnd
 
 
 ## Make it Yours!
@@ -11,4 +11,4 @@ After cloning the files, you will have to run ```yarn``` followed by ```yarn sta
 Change the data in the ```data.JSON``` file as well as add any images to ```public/img/```
 You can also change styles by modifying the ```public/css``` files.
 
-##### trmvenus
+##### fashioncstar
